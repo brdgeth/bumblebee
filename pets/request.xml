@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+				  xmlns:gs="http://localhost/pets/bh-producing-soap-web-service-pets">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <gs:getPetRequest>
+         <gs:name>Sooty</gs:name>
+      </gs:getPetRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
