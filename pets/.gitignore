@@ -13,3 +13,7 @@ hs_err_pid*
 
 # Any Target folder
 *\target\*
+
+*.classpath
+
+target/
